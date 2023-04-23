@@ -1,5 +1,5 @@
 # Parcial-IA
-En el DataFrame usado (Heart Disease efectivo(2).csv) se hizo uniendo las 4 bases de datos suministradas, es decir, en este archivo es una sistesis de:
+En el DataFrame usado "Heart Disease efectivo(2).csv" se hizo uniendo las 4 bases de datos suministradas, es decir, en este archivo es una sistesis de:
 
 cleveland.data
 hungarian.data 
